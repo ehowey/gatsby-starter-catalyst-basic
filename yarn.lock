@@ -5950,7 +5950,7 @@ gatsby-telemetry@^1.1.36:
     stack-utils "1.0.2"
     uuid "3.3.3"
 
-gatsby-theme-catalyst-core@^0.13.1:
+gatsby-theme-catalyst-core@^0.13.2:
   version "0.13.2"
   resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-core/-/gatsby-theme-catalyst-core-0.13.2.tgz#f9d72da3a33d651f910c6278b9e1ff7491cb5697"
   integrity sha512-MsgYLcByh2c8jy6T41g0QjstnrGejmgYIKkETo2KMyEB0ZmgnYU55Rm4Ums0FHSQgaVTkvTxx7zqD02L7gTnTw==
@@ -5982,19 +5982,19 @@ gatsby-theme-catalyst-core@^0.13.1:
     remark-slug "^5.1.2"
     theme-ui "^0.2.46"
 
-gatsby-theme-catalyst-footer-basic@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.0.3.tgz#7a0fc3a5f5c1d090f3b41cdb708d3357d08243cd"
-  integrity sha512-OejvVsWvT1gWqQk8UC/JNkQfvkEgKFhhwkjfPY0WaVVE4pLjkyUxrc5CqMJfLiwRpLbBj90UKD7Qsn6e0oXJcw==
+gatsby-theme-catalyst-footer-basic@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-footer-basic/-/gatsby-theme-catalyst-footer-basic-0.0.4.tgz#c2175090d531368dc9a70f8ea0c86ae678615655"
+  integrity sha512-q48XwWpC4GsArkULp6zr0Yhkl3hWVnQi5FfhYQhgB3UqgD8EO1Q6SQnzDXZhqcE8judPOX4HHaJu3RrsllOQ2g==
   dependencies:
-    gatsby-theme-catalyst-core "^0.13.1"
+    gatsby-theme-catalyst-core "^0.13.2"
 
-gatsby-theme-catalyst-header-basic@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.0.3.tgz#05ce24aa86cf32b02f51ee4ef87ac74529f9885e"
-  integrity sha512-lKI3EXRxZuZdk5sD8kQ4h9khgmLBsP7qYf9rwI4M1Rap8Lt5WJtvd+g3bBxV+XcB+jq5rXT4B3DoMLfF/QOVbg==
+gatsby-theme-catalyst-header-basic@^0.0.4:
+  version "0.0.4"
+  resolved "https://registry.yarnpkg.com/gatsby-theme-catalyst-header-basic/-/gatsby-theme-catalyst-header-basic-0.0.4.tgz#e7b3d1723bb5afc043e10df9be26ba04d227349f"
+  integrity sha512-J2pnsfp/5i3lgJYHrUjoI/6hQ91hzj2eQWdr24gxAiKW0KECjGG4uj4OGjOb9+GOZpaoiJ9LPAaleBKglfjICA==
   dependencies:
-    gatsby-theme-catalyst-core "^0.13.1"
+    gatsby-theme-catalyst-core "^0.13.2"
 
 gatsby-transformer-sharp@^2.3.2:
   version "2.3.3"
